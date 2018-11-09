@@ -4,9 +4,15 @@
   "description": "Curso do DA2K",
   "main": "index.js",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
   },
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
     "webpack": "^1.15.0",
     "webpack-dev-server": "^1.16.5"
   },
