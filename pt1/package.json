@@ -21,6 +21,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Gabriel Santos",
+  "author": "Gabriel Santos (mfkrgabriel@gmail.com)",
   "license": "MIT"
 }
